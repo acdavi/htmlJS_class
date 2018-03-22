@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt_br">
 <head>
 	<meta charset="utf-8">
 	<title>Tabuada</title>
@@ -8,12 +8,41 @@
 
 	<script>
 		var tabuada;
-		for (var num1 = 0; num1 <= 10 ; num1++) {
-			document.write("<br>Tabuada do numero "+ num1 +"<br><br>")
-			for (num2 = 1; num2 <= 10; num2++) {
-				document.write(num1 + " vezes " + num2 + "="+ num2 * num1 + "<br>");
+		var num = 8
+			for (tabuada = 1; tabuada <= 10; tabuada++) {
+				document.write(num + " vezes " + tabuada + "="+ num * tabuada);
+				pulalinha();
 			}
+		
+
+
+		function pulalinha() {
+			document.write("<br>");
 		}
+
+		function soma(num1,num2){
+			var soma = num1 + num2;
+			return soma;
+		}
+
+
+		function subtracao(num1,num2){
+			var subtracao = num1 - num2;
+			return subtracao;
+		}
+
+		function divisao(num1,num2){
+			var divisao = num1/num2;
+			return divisao;
+		}
+
+		document.write("A soma, subtração e divisão dos numeros 9 e 57 são respectivamente: <br>"
+			+soma(9,57)
+			+", "
+			+subtracao(9,57)
+			+", "
+			+divisao(9,57));
+
 
 
 	</script>
