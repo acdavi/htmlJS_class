@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Trabalho</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>Recupera��o Dos Exercicios</h1>
+    <h2>Davi Araujo C�ndido, T�cnico em Inform�tica</h2>
+    <h3>1)	Engenharia de software � uma �rea da computa��o voltada � especifica��o, desenvolvimento, manuten��o e cria��o de software, pr�ticas de ger�ncia de projetos, visando organiza��o, produtividade e qualidade.<br>
+
+2)	Um processo � formado por um conjunto de passos de processo parcialmente ordenados, relacionados com artefatos, pessoas, recursos, estruturas organizacionais e restri��es, tendo como objetivo produzir e manter os produtos de software requeridos.<br>
+	
+3)	Um comportamento ou uma a��o para a qual possa ser visualizado um in�cio e um fim; isto �, algo pass�vel de execu��o. Podem ser separadas entre: entrada, sa�da, especificas e n�o especificas<br>
+
+4)	Permitem ao engenheiro especificar, projetar, implementar e manter o sistema de software, avaliando e dando garantia de sua qualidade.<br>
+
+5)	O ciclo de vida de um software s�o todas as etapas do desenvolvimento do software em quest�o, do seu in�cio at� o seu fim. O objetivo � definir meios que permitam a valida��o do desenvolvimento do software, em outras palavras, gerar uma conformidade do software com as necessidades expressar e a verifica��o do processo de desenvolvimento.<br>
+
+6)	� fazer um conjunto de atividades e de tarefas divididas por sequ�ncias de tempo, com recursos atribu�dos, contendo depend�ncias de tarefas, para o projeto.<br>
+
+7)	Projetar o sistema, atuar na an�lise e projeto de sistemas, fazer um levantamento de requisitos e regras de neg�cios, criar um mapeamento de processos e modelagem de dados, e proceder com padr�es de qualidade das rotinas e processos. A lista de afazeres de um Analista de Sistemas � enorme, por este mesmo motivo est� sendo citado aqui apenas os mais �importantes�.<br>
+
+8)	Desenvolver ou fazer manuten��o em um software, seja para uso pessoal, ou um grande sistema para empresas.<br>
+
+9)	O modelo espiral, pois sempre que terminamos uma etapa, � feito uma an�lise de riscos, para que o software n�o sofra.<br>
+
+10)	Com certeza, assim como � necess�rio um Engenheiro Civil para a constru��o de um pr�dio, que, embora n�o atue diretamente na constru��o do pr�dio, ele atue na �rea da organiza��o do grupo, organiza��o dos processos, despesas, e a verifica��o de qualidade do pr�dio, deixando tudo mais organizado. A mesma coisa se aplica � Engenharia de Software, onde o engenheiro n�o atua diretamente na �rea de programa��o, mas atua na parte da organiza��o, visando sempre a qualidade do software, a comunica��o, o prazo e o custo do software.
+    </h3>
+  </body>
+</html>
